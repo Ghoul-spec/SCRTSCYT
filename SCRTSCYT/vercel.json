@@ -5,8 +5,10 @@
   "installCommand": "npm install",
   "framework": "vite",
   "functions": {},
+  "routes": [
     {
       "src": "/(.*)",
       "dest": "/index.html"
     }
+  ]
 }
