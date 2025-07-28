@@ -1,7 +1,0 @@
-{
-  "extends": "../node_modules/convex/tsconfig.json",
-  "compilerOptions": {
-    "moduleResolution": "bundler",
-    "allowImportingTsExtensions": true
-  }
-}
